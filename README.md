@@ -18,6 +18,6 @@ https://github.com/user-attachments/assets/16c9478f-ba6a-420c-8ff4-bb32ca572b8a
 
 Додаток функціонує через шторку сповіщень, щоб уникнути помилок - потрібно дозволити роботу в фоні
 
-https://github.com/user-attachments/assets/035a43d0-aa29-4ae5-a9b5-df883d3939fb
-https://github.com/user-attachments/assets/2354e529-f948-47e9-b088-18d976a04b70
+![ui_demonstration](https://github.com/user-attachments/assets/5f98c7ef-fa2c-468d-8e8c-6e59b26a7369)
+
 
