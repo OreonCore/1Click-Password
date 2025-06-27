@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme._1ClickPassword" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.OneClickPassword.Splash" parent="Theme._1ClickPassword">
+        <item name="android:windowSplashScreenBackground">@color/splashscreen_background</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+    </style>
+</resources>

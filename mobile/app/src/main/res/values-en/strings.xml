@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">1ClickPassword</string>
+    <string name="choose_password_length">Select password length:\n%d characters</string>
+    <string name="battery_optimization_title">Battery Optimization</string>
+    <string name="battery_optimization_description">Disable battery optimization to allow proper background operation.</string>
+    <string name="disable_optimization">Disable restriction</string>
+    <string name="qs_generate">Generate</string>
+    <string name="qs_copied">Copied!</string>
+    <string name="language_switch">Змінити мову на українську</string>
+    <string name="about_program_title">About the app</string>
+    <string name="about_program_close">Close</string>
+    <string name="about_program_text">This tool was created by me and for me, with the help of neural networks. I do not guarantee code cleanliness and quality.</string>
+    <string name="about_program_github_button">Open source on GitHub</string>
+<string name="generate_password">Generate password</string>
+
+</resources>

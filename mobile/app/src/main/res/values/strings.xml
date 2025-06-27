@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">1ClickPassword</string>
+    <string name="choose_password_length">Виберіть довжину пароля:\n%d символів</string>
+    <string name="battery_optimization_title">Оптимізація акумулятора</string>
+    <string name="battery_optimization_description">Вимкніть оптимізацію акумулятора для коректної роботи додатку у фоновому режимі.</string>
+    <string name="disable_optimization">Вимкнути обмеження</string>
+    <string name="qs_generate">Згенерувати</string>
+    <string name="qs_copied">Скопійовано!</string>
+    <string name="language_switch">Switch language to English</string>
+    <string name="about_program_title">Про програму</string>
+    <string name="about_program_close">Закрити</string>
+    <string name="about_program_text">Інструмент створений мною і для мене, за допомогою нейромереж. За чистоту і якість коду не ручаюсь.</string>
+    <string name="about_program_github_button">Відкритий код на GitHub</string>
+<string name="generate_password">Згенерувати пароль</string>
+<string name="theme_toggle">Змінити тему</string>
+
+
+</resources>

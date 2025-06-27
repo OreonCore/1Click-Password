@@ -1,0 +1,4 @@
+<resources>
+    <color name="splashscreen_background">#121212</color>
+    <color name="splashscreen_icon_tint">#FFFFFF</color>
+</resources>
